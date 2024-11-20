@@ -1,5 +1,5 @@
-# Campeonato-de-skate
+# Skateboarding Championship
 
-Você está ajudando o departamento de educação física no primeiro campeonato de skate da UFRN. Nesse campeonato o que importa mais é a regularidade. Para isso, o campeonato ocorre em 3 dias consecutivos e em cada dia o skatista terá 3 scores diferentes. O score do dia é definido como o score que nem é o maior, nem o menor daquele dia. Se houver score repetido, o score será dado pelo score que se repetiu (seja por 2 ou 3 vezes). O score final do skatista é dado da mesma forma, mas considerando os 3 scores resultantes de cada dia.
+You are helping the physical education department in the first UFRN skateboarding championship. In this championship, what matters most is regularity. To achieve this, the championship takes place over 3 consecutive days and each day the skater will have 3 different scores. The score of the day is defined as the score that is neither the highest nor the lowest for that day. If there is a repeated score, the score will be given by the score that was repeated (either 2 or 3 times). The skater's final score is given in the same way, but considering the 3 scores resulting from each day.
 
-Por exemplo, suponha que o skatista pontuou 3, 7 e 2 no primeiro dia, 3, 4 e 4 no segundo e 2, 2, 8 no terceiro. Nesse caso, o score do primeiro dia será 3, do segundo dia será 4 e do terceiro dia será 2. Considerando os scores 3, 4 e 2 obtidos, o score final será 3.
+For example, suppose the skater scored 3, 7, and 2 on the first day, 3, 4, and 4 on the second, and 2, 2, 8 on the third. In this case, the score for the first day will be 3, the second day will be 4 and the third day will be 2. Considering the scores 3, 4 and 2 obtained, the final score will be 3.
